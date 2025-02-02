@@ -1,0 +1,25 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+text-align: center;
+margin-top: 20%;
+font-size: 60px;
+}
+h1 span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+text-align: center;
+margin-top: 20%;
+font-size: 60px;
+}
+body{
+    color: white;
+    text-align: center;
+}
+.corazon{
+    width: 1000px;
+    height: 1200px;
+    margin-top: -0%;
+}
